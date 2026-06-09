@@ -6,3 +6,11 @@ __pycache__/
 *.pyc
 
 *.pkl
+
+# Secrets
+.env
+
+# Vector DB
+chroma_db/
+*.sqlite3
+*.bin
